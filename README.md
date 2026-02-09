@@ -4,6 +4,7 @@ Currently, I am a Trainee at **Coding Factory @ Athens University of Economics a
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="azure-sql.png" alt="sql-cloud" width="40" height="40"/>
  
 <!--
 **karmperis/karmperis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
