@@ -2,6 +2,18 @@
 I am an **Entry-level Backend Software Engineer** focusing on **Data Engineering**.
 Currently, I am a Trainee at **Coding Factory @ Athens University of Economics and Business (AUEB)**.
 
+<hr>
+
+### 📚 Learning Progress
+- **SQL**  ........ ✅ Done
+- **HTML** ........ ✅ Done
+- **CSS**  ........ ✅ Done
+- **Git/GitHub** .. ✅ Done
+- **Java** ........ 🔄 In Progress
+- **Javascript** .. 🔄 In Progress
+- **C#** .......... 🔜 Upcoming
+- **Python** ...... 🔜 Upcoming
+
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="azure-sql.png" alt="sql-cloud" width="40" height="40"/>
