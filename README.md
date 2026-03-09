@@ -9,9 +9,9 @@ Currently, I'm a Trainee at **Coding Factory @ Athens University of Economics an
 - **HTML** ........ ✅ Done
 - **CSS**  ........ ✅ Done
 - **Git/GitHub** .. ✅ Done
-- **Java** ........ 🔄 In Progress
+- **Java** ........ ✅ Done
 - **Javascript** .. 🔄 In Progress
-- **C#** .......... 🔜 Upcoming
+- **C#** .......... 🔄 In Progress
 - **Python** ...... 🔜 Upcoming
 
 <p align="right">
