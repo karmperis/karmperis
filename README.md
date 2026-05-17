@@ -1,18 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello and welcome, I'm Nikolaos KARMPERIS.
-I'm an **Entry-level Backend Software Engineer** focusing on **Data Engineering**.
+I'm an **Entry-level Backend Software Engineer**.
+**Java, Spring Boot, REST API, T-SQL**
 Currently, I'm a Trainee at **Coding Factory @ Athens University of Economics and Business (AUEB)**.
 
 <hr>
-
-### 📚 Learning Progress
-- **SQL**  ........ ✅ Done
-- **HTML** ........ ✅ Done
-- **CSS**  ........ ✅ Done
-- **Git/GitHub** .. ✅ Done
-- **Java** ........ ✅ Done
-- **Javascript** .. 🔄 In Progress
-- **C#** .......... 🔄 In Progress
-- **Python** ...... 🔜 Upcoming
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
